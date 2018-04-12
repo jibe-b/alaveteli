@@ -2,6 +2,7 @@
 
 ## Highlighted Features
 
+* Make it quicker to ban users for spamming in admin interface (Gareth Rees)
 * Destroy embargoes when the attached info request is destroyed (Gareth Rees)
 * Fix case sensitivity bug in password reset form (Gareth Rees)
 * Rename dangerous Xapian commands (Gareth Rees)
