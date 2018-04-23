@@ -2,6 +2,7 @@
 
 ## Highlighted Features
 
+* Add user name spam checking (Gareth Rees)
 * Add standard Rails timestamp columns to all tables (Gareth Rees)
 * Fix broken migrations introduced in 0.30 (Gareth Rees)
 * Destroy embargoes when the attached info request is destroyed (Gareth Rees)
